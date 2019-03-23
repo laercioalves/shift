@@ -1,0 +1,72 @@
+[33mcommit 2e6c28a1a7049f074f51f9fccc90ae1b02210c40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: aeff7cb 50866cc
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 14:22:18 2019 -0300
+
+    Merge branch 'dev'
+
+[33mcommit aeff7cb27216c12bd6919ebda7c3ba051ad331b7[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 13:01:28 2019 -0300
+
+    incluindo arquivo 7
+
+[33mcommit 50866cc00d394f88d3d07e9251ad25202805324b[m[33m ([m[1;32mdev[m[33m)[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 13:01:28 2019 -0300
+
+    incluindo arquivo 7
+
+[33mcommit 2e5a67d781b9d80ab8aa746ba45da843cff3dccb[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 13:00:22 2019 -0300
+
+    incluindo arquivo6.txt
+
+[33mcommit 76bf8b70ebc4dbdbec4f6281ebed6d1dc20d2714[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 12:52:25 2019 -0300
+
+    criando novo arquivo arquivo5
+
+[33mcommit 32a47eb1023a1f8bf17d53459f28a4c19d98ccd8[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 12:11:57 2019 -0300
+
+    mudado msg do commit
+
+[33mcommit 63f8545e08c1875fd10623b212b849770148e8d7[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 10:36:00 2019 -0300
+
+    alteracao arquivo 4
+
+[33mcommit 4ca62ddba62fb80e8d1f5380f3cf1c950b3681e3[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 10:34:46 2019 -0300
+
+    alteracao arquivo 3
+
+[33mcommit cc6416da79f596213e2ef34656f8d78fa8796c0a[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 10:33:20 2019 -0300
+
+    alteracao arquivo 2
+
+[33mcommit 83cb1934e575cb4bc3a708f32ca20e5af35d0ef8[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 10:28:50 2019 -0300
+
+    inclusao de texto arquivo 1
+
+[33mcommit e61c7183f58af783712053e8362d96828fd1492c[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 10:22:37 2019 -0300
+
+    inclusao de mais arquivos .txt
+
+[33mcommit 3c9e629a4dbb90bca6dbdd693ebb9189e4cbef02[m
+Author: Laercio Alves <laercio.alves@tecsidel.com>
+Date:   Sat Mar 23 10:05:06 2019 -0300
+
+    criado arquivo.txt para ensinar GIT
